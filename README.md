@@ -15,3 +15,5 @@ Day-5 -- 02.01.2025 --Substring in String , LeetCode - 392,412
 Day-6 -- 09-01-2025 --Maximum Subarray , Single Number - 53,136
 
 Day-7 -- 23-01-2025 --Reversed Linked list(206) , Remove Fullstops , Middle of Linked List (876) , Odd Even Sum Linkedlist
+
+Day-8 -- 30.1.2025 --Merge Sort, Quick Sort, Heap Sort, Peak Element (162)
