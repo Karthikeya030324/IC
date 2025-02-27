@@ -19,3 +19,5 @@ Day-7 -- 23-01-2025 --Reversed Linked list(206) , Remove Fullstops , Middle of L
 Day-8 -- 30.1.2025 --Merge Sort, Quick Sort, Heap Sort, Peak Element (162)
 
 Day-9 -- 6.2.2025 --LeetCode(104,102,1161,450)
+
+Day-10-- 27.2.2025--LeetCode(17,216)
