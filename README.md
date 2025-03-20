@@ -23,3 +23,5 @@ Day-9 -- 6.2.2025 --LeetCode(104,102,1161,450)
 Day-10-- 27.2.2025--LeetCode(17,216)
 
 Day-11-- 13.3.2025--LeetCode(316,621), 'X' & 'Y' repeated without 'xxx' & 'yyy'
+
+Day-12-- 20.3.2025--LeetCode(72,1143,62)
